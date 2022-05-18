@@ -1,8 +1,7 @@
 """
 lessons on for iteration operator
 
-https://github.com/Kamoliddin777/python_lesson
-"""
+https://github.com/KamoliddinIbrohimov/python-lesson"""
 """Homework"""
 
 """1.Make a list of names of at least 5 items, and write a repeating message 

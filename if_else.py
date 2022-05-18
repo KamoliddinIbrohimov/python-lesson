@@ -1,7 +1,7 @@
 """
 lessons on if and else
 
-https://github.com/Kamoliddin777/python_lesson
+hhttps://github.com/KamoliddinIbrohimov/python-lesson
 """
 """Homework"""
 """1.Create a list of new cars = ['toyota', 'mazda', 'hyundai', 'gm', 'kia'], 

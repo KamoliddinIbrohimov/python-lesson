@@ -1,8 +1,7 @@
 """
 lessons on the list
 
-https://github.com/Kamoliddin777/python_lesson
-"""
+https://github.com/KamoliddinIbrohimov/python-lesson"""
 #Homevork
 
 """1.create a list of names and enter the names of at least 3 close friends

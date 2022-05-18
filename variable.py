@@ -1,8 +1,7 @@
 """
 lessons on the variable
 
-https://github.com/Kamoliddin777/python_lesson
-"""
+https://github.com/KamoliddinIbrohimov/python-lesson"""
 """Homework"""
 #"Hello World!" upload the text to the new variable and print it 
 #to the console using print ()

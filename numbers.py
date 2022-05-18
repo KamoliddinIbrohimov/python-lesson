@@ -1,8 +1,7 @@
 """
 lessons on the numbers
 
-https://github.com/Kamoliddin777/python_lesson
-"""
+https://github.com/KamoliddinIbrohimov/python-lesson"""
 #Homework
 
 """1.A program that displays the square and cube of a number entered by a user on a console
